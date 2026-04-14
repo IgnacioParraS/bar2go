@@ -1,0 +1,16 @@
+{
+  "name": "Bar2Go — Barra Móvil Santiago",
+  "short_name": "Bar2Go",
+  "description": "Bartenders profesionales y barra libre móvil para eventos en Santiago, Chile.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#080f1a",
+  "theme_color": "#080f1a",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
