@@ -4,7 +4,7 @@ import { WHATSAPP_NUMBER } from '../data/drinks';
 
 const footerLinks = [
   { to: '/',       label: 'Inicio' },
-  { to: '/carta',  label: 'Carta de Mocktails' },
+  { to: '/carta',  label: 'Carta' },
   { to: '/cotizar', label: 'Cotizar' },
 ];
 
